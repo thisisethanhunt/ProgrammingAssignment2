@@ -1,4 +1,3 @@
-## Put comments here that give an overall description of what your functions do
 ## Week 3 Assignment
 
 ## library(MASS) is used to calculate inverse for non-squared as well as square matrices
